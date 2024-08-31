@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    display: block;
+}
+
+nav {
+    border: 2px solid black;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+    /* align-content: center; */
+    justify-content: center;
+    padding: 21px;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+span {
+    display: block;
+}
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: white;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}
+
+div{
+    text-align: center;
+    font-family: sans-serif;
+    padding: 85px 0px;
+}
+
+.btn{
+    padding: 7px 30px;
+    height: 10px;
+}
